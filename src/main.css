@@ -1,0 +1,65 @@
+
+.css-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.css-style>div {
+    margin: 20px;
+    border:1px solid #f60;
+    width: 400px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img1{
+    background-image: url("./assets/html-css-js.jpg");
+}
+
+.img2{
+    background-image: url("./assets/mayi.jpeg");
+}
+
+.img3{
+    background-image: url("./assets/react.png");
+}
+
+.img4{
+    background-image: url("./assets/mayi.png");
+}
+
+.img5{
+    background-image: url("./assets/vue.jpeg");
+}
+
+.img6{
+    background-image: url("./assets/webpack.png");
+}
+
+.img7{
+    background-image: url("./assets/凯.jpg");
+}
+.img8{
+    background-image: url("./assets/桃夭.gif");
+}
+.img9{
+    background-image: url("./assets/桃夭plus.gif");
+}
+.img10{
+    background-image: url("./assets/路飞.jpg");
+}
+
+.img11{
+    background-image: url("./assets/露娜.png");
+}
+
+#js-img{
+     margin: 20px;
+     border:1px solid #f60;
+     width: 400px;
+     height: 300px;
+     background-size: contain;
+     background-repeat: no-repeat;
+}
